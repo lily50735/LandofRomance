@@ -1,0 +1,102 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MovieClip/rotate2" itemID="5346888e-000002ce" lastModified="1397131406">
+  <timeline>
+    <DOMTimeline name="rotate2" currentFrame="18">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Pic/花瓣2.png">
+                  <matrix>
+                    <Matrix tx="-62" ty="-49.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Pic/花瓣2.png">
+                  <matrix>
+                    <Matrix a="0.70709228515625" b="0.70709228515625" c="-0.70709228515625" d="0.70709228515625" tx="-8.55" ty="-79.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Pic/花瓣2.png">
+                  <matrix>
+                    <Matrix a="0" b="0.999969482421875" c="-0.999969482421875" d="0" tx="50.5" ty="-63"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Pic/花瓣2.png">
+                  <matrix>
+                    <Matrix a="-0.60125732421875" b="0.79901123046875" c="-0.79901123046875" d="-0.60125732421875" tx="78.45" ty="-20.6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Pic/花瓣2.png">
+                  <matrix>
+                    <Matrix a="-0.9901123046875" b="0.13983154296875" c="-0.13983154296875" d="-0.9901123046875" tx="70.3" ty="40.2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Pic/花瓣2.png">
+                  <matrix>
+                    <Matrix a="-0.9273681640625" b="-0.373947143554688" c="0.373947143554688" d="-0.9273681640625" tx="40.95" ty="69.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Pic/花瓣2.png">
+                  <matrix>
+                    <Matrix a="-0.61614990234375" b="-0.787521362304688" c="0.787521362304688" d="-0.61614990234375" tx="0.9" ty="80.1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Pic/花瓣2.png">
+                  <matrix>
+                    <Matrix a="0.373931884765625" b="-0.927352905273438" c="0.9273681640625" d="0.373931884765625" tx="-68.35" ty="39.9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Pic/花瓣2.png">
+                  <matrix>
+                    <Matrix a="0.920135498046875" b="-0.391326904296875" c="0.391342163085938" d="0.920135498046875" tx="-76.25" ty="-20.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Pic/花瓣2.png">
+                  <matrix>
+                    <Matrix a="0.9998779296875" b="-0.00164794921875" c="0.00164794921875" d="0.9998779296875" tx="-61.95" ty="-49.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

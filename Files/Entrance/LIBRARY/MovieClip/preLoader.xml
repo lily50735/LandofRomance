@@ -1,0 +1,53 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MovieClip/preLoader" itemID="5347f23c-00000054" lastModified="1397223996" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="preLoader">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!6649 3111S1[6240 2975 5889 2711!5889 2711|5440 1811!5440 1811[4938 1654 4360 1555!4360 1555[3692 1440 3095 1433!3095 1433[2908 1456 2722 1493!2722 1493[2550 1455 2370 1465!2370 1465[2335 1469 2301 1473!2301 1473|2208 1510!2208 1510[2188
+ 1566 2176 1625!2176 1625[2122 1654 2077 1699!2077 1699[2063 1712 2048 1750!2048 1750|2048 1839!2048 1839|2161 1802!2161 1802[2161 1836 2164 1870!2164 1870[2170 1936 2168 2010!2168 2010|2088 2130!2088 2130[1928 2186 1748 2170!1748 2170
+[1407 2835 1617 3361!1617 3361[1653 3275 1698 3186!1698 3186[1878 3202 2038 3146!2038 3146|2118 3026!2118 3026[2120 2952 2114 2886!2114 2886[2111 2852 2111 2818!2111 2818|1998 2855!1998 2855|1998 2766!1998 2766[2013 2728 2027 2715!2027
+ 2715[2072 2670 2126 2641!2126 2641[2138 2582 2158 2526!2158 2526|2251 2489!2251 2489[2285 2485 2320 2481!2320 2481[2500 2471 2672 2509!2672 2509[2858 2472 3045 2449!3045 2449[3642 2456 4310 2571!4310 2571[4888 2670 5390 2827!5390 2827
+|5839 3727!5839 3727[6190 3991 6599 4127!6599 4127|6639 4187!6639 4187|6679 4287!6679 4287[6678 4329 6685 4365!6685 4365[6703 4463 6766 4547!6766 4547|6789 4511!6789 4511[6777 4431 6786 4367!6786 4367[6795 4306 6849 4271!6849 4271[6874
+ 4013 6857 3753!6857 3753[6851 3668 6849 3571!6849 3571[6758 3471 6735 3349!6735 3349[6728 3313 6729 3271!6729 3271|6689 3171!6689 3171|6649 3111"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="MovieClip/preLoaderFill" name="preLoaderFill" selected="true" centerPoint3DX="210" centerPoint3DY="149.5">
+                  <matrix>
+                    <Matrix tx="76.85" ty="61.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="133.15" y="87.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="bytesPresent" selected="true" width="100" height="12" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="109.85" ty="270.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" bitmapSize="240" face="Times-Roman" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMBitmapInstance selected="true" libraryItemName="Pic/logo 透.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

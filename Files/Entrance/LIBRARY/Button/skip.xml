@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Button/skip" itemID="53480328-000005dc" symbolType="button" lastModified="1397228630">
+  <timeline>
+    <DOMTimeline name="skip">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Pic/淡墨.png">
+                  <matrix>
+                    <Matrix a="0.19586181640625" d="0.264556884765625" tx="321.65" ty="225.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="392.9" y="79"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="Pic/略.png">
+                  <matrix>
+                    <Matrix a="1.04632568359375" d="1.04632568359375" tx="331.75" ty="128.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="62" y="60.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

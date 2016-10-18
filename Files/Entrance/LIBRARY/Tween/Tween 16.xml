@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween/Tween 16" itemID="534696c8-00000535" symbolType="graphic" lastModified="1397135048">
+  <timeline>
+    <DOMTimeline name="Tween 16">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="-694.25" ty="-301.2"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="Pic/男.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="0.69561767578125" d="0.69561767578125" tx="672.95" ty="281.9"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!14311 5638S2|14311 6410!14311 6410|13459 6410!13459 6410|13459 5638!13459 5638|14311 5638"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

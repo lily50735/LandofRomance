@@ -1,0 +1,276 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Worker</title>
+        <style>
+            #Title{
+	position: absolute;
+	top: -10px;
+	left: 11px;
+	width: 185px;
+	height: 74px;
+                }
+			#p1{
+	position: absolute;
+	z-index: 5;
+	height: 81px;
+	width: 92px;
+	left: 114px;
+	top: 323px;
+            }
+			#p2{
+	position: absolute;
+	z-index: 5;
+	height: 81px;
+	width: 92px;
+	left: 391px;
+	top: 317px;
+            }
+			#p3{
+	position: absolute;
+	z-index: 5;
+	height: 81px;
+	width: 92px;
+	left: 21px;
+	top: 241px;
+            }
+			#p4{
+	position: absolute;
+	z-index: 0;
+	height: 81px;
+	width: 92px;
+	left: 248px;
+	top: 357px;
+            }
+			#p5{
+	position: absolute;
+	z-index: 5;
+	height: 81px;
+	width: 92px;
+	left: 15px;
+	top: 118px;
+            }
+			#p6{
+	position: absolute;
+	z-index: 5;
+	height: 160px;
+	width: 180px;
+	left: 500px;
+	top: 50px;
+            }
+			#p6{
+	position: absolute;
+	z-index: 5;
+	height: 81px;
+	width: 92px;
+	left: 492px;
+	top: 234px;
+            }
+			#p7{
+	position: absolute;
+	z-index: 0;
+	height: 84px;
+	width: 96px;
+	left: 508px;
+	top: 113px;
+            }
+			#intro1{
+	position: absolute;
+	z-index: 10;
+	height: 84px;
+	width: 96px;
+	left: 120px;
+	top: 37px;
+	display:none;
+            }
+			#intro2{
+	position: absolute;
+	z-index: 10;
+	height: 84px;
+	width: 96px;
+	left: 120px;
+	top: 37px;
+	display:none;
+            }
+			#intro3{
+	position: absolute;
+	z-index: 10;
+	height: 84px;
+	width: 96px;
+	left: 120px;
+	top: 37px;
+	display:none;
+            }
+			#intro4{
+	position: absolute;
+	z-index: 10;
+	height: 84px;
+	width: 96px;
+	left: 120px;
+	top: 37px;
+	display:none;
+            }
+			#intro5{
+	position: absolute;
+	z-index: 10;
+	height: 84px;
+	width: 96px;
+	left: 120px;
+	top: 37px;
+	display:none;
+            }
+			#intro6{
+	position: absolute;
+	z-index: 10;
+	height: 84px;
+	width: 96px;
+	left: 120px;
+	top: 37px;
+	display:none;
+            }
+			#intro7{
+	position: absolute;
+	z-index: 10;
+	height: 100px;
+	width: 96px;
+	left: 120px;
+	top: 37px;
+	display:none;
+            }
+			#back{
+	position: absolute;
+	z-index: -10;
+	height: 366px;
+	width: 464px;
+	left: 92px;
+	top: 35px;
+            }
+			#peach{
+	position: absolute;
+	z-index: -10;
+	height: 263px;
+	width: 403px;
+	left: 137px;
+	top: 164px;
+            }
+        </style>
+        <script type="text/javascript">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+var oDiv=null;
+			function proc_enter(elm,iid,pos){
+				if(oDiv) 
+					if(oDiv.id!=iid) 
+						oDiv.style.display="none";
+					if(oDiv=self.document.all(iid)){
+						oDiv.style.position="absolute";
+						//將 div 標籤改成絕對位置表示
+						oDiv.style.display="inline";//將 div 標籤顯示出來					
+					}
+				}
+			function proc_leave(iid){
+				if(oDiv) oDiv.style.display="none";
+			}
+        </script>
+</head>
+    
+<body onload="MM_preloadImages('按鈕/桃太郎/汶.png')">
+		<div id="Title">
+    	<img src="圖檔/標/桃太郎.png" width="180" height="72"  />   
+    </div>
+<div id="p1">
+        	<a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('汶','','按鈕/桃太郎/汶.png',1)" 
+            			onmouseenter="proc_enter(this,'intro1',0);" onmouseleave="proc_leave();">
+            	<img src="按鈕/桃太郎/桃.png" width="80" height="68" id="汶" />
+            </a>
+        </div>
+<div id="p2">
+        	<a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Amy','','按鈕/桃太郎/Amy.png',1)"
+            			onmouseenter="proc_enter(this,'intro2',0);" onmouseleave="proc_leave();">
+            	<img src="按鈕/桃太郎/桃.png" width="80" height="68" id="Amy" />
+            </a>
+        </div>
+        <div id="p3">
+        	<a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('哲','','按鈕/桃太郎/哲.png',1)"
+            			onmouseenter="proc_enter(this,'intro3',0);" onmouseleave="proc_leave();">
+            	<img src="按鈕/桃太郎/桃.png" width="80" height="68" id="哲" />
+            </a>
+        </div>
+<div id="p4">
+        	<a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('安','','按鈕/桃太郎/安.png',1)"
+            			onmouseenter="proc_enter(this,'intro4',0);" onmouseleave="proc_leave();">
+            	<img src="按鈕/桃太郎/桃.png" width="80" height="68" id="安" />
+            </a>
+</div>
+<div id="p5">
+       	  <a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('薇','','按鈕/桃太郎/薇.png',1)" 
+          				onmouseenter="proc_enter(this,'intro5',0);" onmouseleave="proc_leave();">
+            	<img src="按鈕/桃太郎/桃.png" width="80" height="68" id="薇" />
+  </a>
+</div>
+<div id="p6">
+       	  <a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('千','','按鈕/桃太郎/千.png',1)"
+          				onmouseenter="proc_enter(this,'intro6',0);" onmouseleave="proc_leave();">
+            	<img src="按鈕/桃太郎/桃.png" width="80" height="68" id="千" />
+  </a>
+</div>
+<div id="p7">
+       	  <a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('溫','','按鈕/桃太郎/溫.png',1)"
+          				onmouseenter="proc_enter(this,'intro7',0);" onmouseleave="proc_leave();">
+            	<img src="按鈕/桃太郎/桃.png" width="80" height="68" id="溫" />
+  </a>
+        </div>
+        <div id="back">
+       	  <img src="桃太郎/桃太郎.png" width="415" height="314" />
+          
+        </div>
+        <div id="intro1">
+       	  <img src="桃太郎/汶i.jpg" width="385" height="187"  />
+        </div>
+<div id="intro2">
+       	  <img src="桃太郎/Amyi.jpg" width="385" height="187"  />
+        </div>
+<div id="intro3">
+       	  <img src="桃太郎/哲i.jpg" width="385" height="187"  />
+        </div>
+<div id="intro4">
+       	  <img src="桃太郎/安i.jpg" width="385" height="187"  />
+        </div>
+<div id="intro5">
+       	  <img src="桃太郎/薇i.jpg" width="385" height="187"  />
+        </div>
+<div id="intro6">
+       	  <img src="桃太郎/千i.jpg" width="385" height="187"  />
+        </div>
+<div id="intro7">
+       	  <img src="桃太郎/溫i.jpg" width="385" height="187"  />
+        </div>
+        <div id="peach">
+       	  <a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('PEACH','','按鈕/桃太郎/屁桃.png',1)">
+            	<img src="按鈕/桃太郎/PEACH.png" width="298" height="216" id="PEACH" />
+            </a>
+        </div>
+  
+
+</body>
+</html>

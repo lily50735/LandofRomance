@@ -1,0 +1,1045 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#C2C2C2" width="980" height="680" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Macintosh" versionInfo="Saved by Adobe Flash Macintosh 12.0 build 481" majorVersion="12" buildNumber="481" viewAngle3D="85.695281426942" nextSceneIdentifier="3" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveHasPrompted="true">
+     <folders>
+          <DOMFolderItem name="Button" itemID="53495ff5-000005a9"/>
+          <DOMFolderItem name="falling1.tween" itemID="5346518a-000002be"/>
+          <DOMFolderItem name="Font" itemID="53496063-000005b9"/>
+          <DOMFolderItem name="MovieClip" itemID="5349603a-000005b2" isExpanded="true"/>
+          <DOMFolderItem name="poem" itemID="5346c3e5-00000313"/>
+          <DOMFolderItem name="Pic" itemID="53496058-000005b4"/>
+          <DOMFolderItem name="Sound" itemID="53495fe4-000005a4"/>
+          <DOMFolderItem name="Tween" itemID="53495fdb-000005a3"/>
+     </folders>
+     <fonts>
+          <DOMFontItem name="Font/Font 2" itemID="5347f9d8-00000393" font="Times-Roman" size="0" id="2" sourceLastImported="1397225944"/>
+          <DOMFontItem name="Font/Font 1" itemID="5347f9d8-00000391" font="ARXingKaiB5-Bold" size="0" id="1" sourceLastImported="1397225944"/>
+     </fonts>
+     <media>
+          <DOMBitmapItem name="poem/1.png" itemID="5346c420-00000332" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫 有落花/LIBRARY/poem/1.png" sourceLastImported="1397146495" sourcePlatform="macintosh" externalFileSize="113933" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="poem/1.png" bitmapDataHRef="M 15 1397146582.dat" frameRight="21720" frameBottom="30840"/>
+          <DOMBitmapItem name="poem/10.png" itemID="5346c421-00000333" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫 有落花/LIBRARY/poem/10.png" sourceLastImported="1397146569" sourcePlatform="macintosh" externalFileSize="113681" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="poem/10.png" bitmapDataHRef="M 23 1397146588.dat" frameRight="21720" frameBottom="30840"/>
+          <DOMBitmapItem name="poem/2.png" itemID="5346c421-00000334" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫 有落花/LIBRARY/poem/2.png" sourceLastImported="1397146507" sourcePlatform="macintosh" externalFileSize="113834" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="poem/2.png" bitmapDataHRef="M 16 1397146583.dat" frameRight="21720" frameBottom="30840"/>
+          <DOMBitmapItem name="poem/3.png" itemID="5346c421-00000335" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫 有落花/LIBRARY/poem/3.png" sourceLastImported="1397146516" sourcePlatform="macintosh" externalFileSize="113752" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="poem/3.png" bitmapDataHRef="M 17 1397146583.dat" frameRight="21720" frameBottom="30840"/>
+          <DOMBitmapItem name="poem/4.png" itemID="5346c421-00000336" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫 有落花/LIBRARY/poem/4.png" sourceLastImported="1397146523" sourcePlatform="macintosh" externalFileSize="113777" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="poem/4.png" bitmapDataHRef="M 18 1397146584.dat" frameRight="21720" frameBottom="30840"/>
+          <DOMBitmapItem name="poem/6.png" itemID="5346c421-00000337" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫 有落花/LIBRARY/poem/6.png" sourceLastImported="1397146534" sourcePlatform="macintosh" externalFileSize="114885" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="poem/6.png" bitmapDataHRef="M 19 1397146585.dat" frameRight="21720" frameBottom="30840"/>
+          <DOMBitmapItem name="poem/7.png" itemID="5346c421-00000338" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫 有落花/LIBRARY/poem/7.png" sourceLastImported="1397146541" sourcePlatform="macintosh" externalFileSize="113659" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="poem/7.png" bitmapDataHRef="M 20 1397146586.dat" frameRight="21720" frameBottom="30840"/>
+          <DOMBitmapItem name="poem/8.png" itemID="5346c421-00000339" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫 有落花/LIBRARY/poem/8.png" sourceLastImported="1397146555" sourcePlatform="macintosh" externalFileSize="113741" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="poem/8.png" bitmapDataHRef="M 21 1397146586.dat" frameRight="21720" frameBottom="30840"/>
+          <DOMBitmapItem name="poem/9.png" itemID="5346c421-0000033a" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫 有落花/LIBRARY/poem/9.png" sourceLastImported="1397146562" sourcePlatform="macintosh" externalFileSize="113649" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="poem/9.png" bitmapDataHRef="M 22 1397146587.dat" frameRight="21720" frameBottom="30840"/>
+          <DOMBitmapItem name="Pic/男.png" itemID="5346963e-0000052c" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫1/LIBRARY/男.png" sourceLastImported="1397134730" sourcePlatform="macintosh" externalFileSize="811042" originalCompressionType="lossless" quality="50" href="Pic/男.png" bitmapDataHRef="M 12 1397134743.dat" frameRight="24480" frameBottom="22200"/>
+          <DOMBitmapItem name="Pic/男1.png" itemID="5346c678-0000037c" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫 有落花/LIBRARY/男1.png" sourceLastImported="1397147167" sourcePlatform="macintosh" externalFileSize="1126661" originalCompressionType="lossless" quality="50" href="Pic/男1.png" bitmapDataHRef="M 24 1397147194.dat" frameRight="24480" frameBottom="22200"/>
+          <DOMBitmapItem name="Pic/男2.png" itemID="5346c679-0000037d" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫 有落花/LIBRARY/男2.png" sourceLastImported="1397147175" sourcePlatform="macintosh" externalFileSize="1117625" originalCompressionType="lossless" quality="50" href="Pic/男2.png" bitmapDataHRef="M 25 1397147195.dat" frameRight="24480" frameBottom="22200"/>
+          <DOMBitmapItem name="Pic/男3.png" itemID="5346c679-0000037e" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫 有落花/LIBRARY/男3.png" sourceLastImported="1397147186" sourcePlatform="macintosh" externalFileSize="1117362" originalCompressionType="lossless" quality="50" href="Pic/男3.png" bitmapDataHRef="M 26 1397147195.dat" frameRight="24480" frameBottom="22200"/>
+          <DOMBitmapItem name="Pic/花瓣1.png" itemID="53461265-000003a4" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫/LIBRARY/花瓣1.png" sourceLastImported="1396340835" sourcePlatform="macintosh" externalFileSize="12327" originalCompressionType="lossless" quality="50" href="Pic/花瓣1.png" bitmapDataHRef="M 11 1397100908.dat" frameRight="2520" frameBottom="1980"/>
+          <DOMBitmapItem name="Pic/花瓣2.png" itemID="53461265-000003a5" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫/LIBRARY/花瓣2.png" sourceLastImported="1396340875" sourcePlatform="macintosh" externalFileSize="11176" originalCompressionType="lossless" quality="50" href="Pic/花瓣2.png" bitmapDataHRef="M 12 1397100908.dat" frameRight="2520" frameBottom="1980"/>
+          <DOMBitmapItem name="Pic/桃花緣計-01.png" itemID="53323865-00000250" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫1/桃花緣計-01.png" sourceLastImported="1395799834" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Pic/桃花緣計-01.png" bitmapDataHRef="M 13 1397136329.dat" frameRight="8000" frameBottom="27080"/>
+          <DOMBitmapItem name="Pic/桃花緣計-01.png copy" itemID="53469eea-00000628" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫 無落花/LIBRARY/桃花緣計-01.png copy" sourceLastImported="1395799834" sourcePlatform="macintosh" externalFileSize="25520" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Pic/桃花緣計-01.png copy" bitmapDataHRef="M 14 1397136932.dat" frameRight="8000" frameBottom="27080"/>
+          <DOMBitmapItem name="Pic/圈.png" itemID="534813bb-000006f9" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫 有落花/LIBRARY/圈.png" sourceLastImported="1397231149" sourcePlatform="macintosh" externalFileSize="212308" originalCompressionType="lossless" quality="50" href="Pic/圈.png" bitmapDataHRef="M 29 1397229666.dat" frameRight="20000" frameBottom="17260"/>
+          <DOMBitmapItem name="Pic/淡墨.png" itemID="534805b1-000006d4" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫 有落花/LIBRARY/淡墨.png" sourceLastImported="1397228563" sourcePlatform="macintosh" externalFileSize="76801" originalCompressionType="lossless" quality="50" href="Pic/淡墨.png" bitmapDataHRef="M 28 1397228577.dat" frameRight="15720" frameBottom="3160"/>
+          <DOMBitmapItem name="Pic/略.png" itemID="53480db2-00000522" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫 有落花/LIBRARY/略.png" sourceLastImported="1397228238" sourcePlatform="macintosh" externalFileSize="7564" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Pic/略.png" bitmapDataHRef="M 27 1397228250.dat" frameRight="2480" frameBottom="2420"/>
+          <DOMBitmapItem name="Pic/詩-01.png" itemID="5346c1c8-000002b9" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫 有落花/LIBRARY/詩-01.png" sourceLastImported="1397137854" sourcePlatform="macintosh" externalFileSize="113631" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Pic/詩-01.png" bitmapDataHRef="M 10 1397138576.dat" frameRight="21720" frameBottom="30840"/>
+          <DOMBitmapItem name="Pic/槳.png" itemID="5347451d-000002e3" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫 有落花/LIBRARY/槳.png" sourceLastImported="1397179224" sourcePlatform="macintosh" externalFileSize="128219" originalCompressionType="lossless" quality="50" href="Pic/槳.png" bitmapDataHRef="M 23 1397179248.dat" frameRight="19280" frameBottom="7260"/>
+          <DOMBitmapItem name="Pic/back.jpg" itemID="53465a7c-00000284" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫/LIBRARY/back.jpg" sourceLastImported="1397118971" sourcePlatform="macintosh" externalFileSize="437625" quality="50" href="Pic/back.jpg" bitmapDataHRef="M 10 1397119541.dat" frameRight="19600" frameBottom="13600" isJPEG="true"/>
+          <DOMSoundItem name="Sound/blank.mp3" itemID="53495fbb-0000059d" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫 Enter/LIBRARY/blank.mp3" sourceLastImported="1397317360" sourcePlatform="macintosh" externalFileSize="1252" href="Sound/blank.mp3" soundDataHRef="M 36 1397317369.dat" format="44kHz 16bit Mono" sampleCount="3456" exportFormat="1" exportBits="7" dataLength="1252" exportNative="true" cachedSampleCount="432"/>
+          <DOMBitmapItem name="Pic/Enter_mouseover.png" itemID="534932ea-000004b0" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫 Enter/LIBRARY/Enter_mouseover.png" sourceLastImported="1397305971" sourcePlatform="macintosh" externalFileSize="3571" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Pic/Enter_mouseover.png" bitmapDataHRef="M 29 1397306048.dat" frameRight="2720" frameBottom="2420"/>
+          <DOMBitmapItem name="Pic/Enter.png" itemID="5349353d-000004bc" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫 Enter/LIBRARY/Enter.png" sourceLastImported="1397225624" sourcePlatform="macintosh" externalFileSize="7179" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Pic/Enter.png" bitmapDataHRef="M 26 1397225713.dat" frameRight="2720" frameBottom="2420"/>
+          <DOMBitmapItem name="Pic/fog.png" itemID="53466094-000002d2" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫/LIBRARY/fog.png" sourceLastImported="1397120595" sourcePlatform="macintosh" externalFileSize="125403" originalCompressionType="lossless" quality="50" href="Pic/fog.png" bitmapDataHRef="M 14 1397120614.dat" frameRight="19600" frameBottom="13600"/>
+          <DOMBitmapItem name="Pic/left.png" itemID="5346963e-0000052d" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫1/LIBRARY/left.png" sourceLastImported="1397134263" sourcePlatform="macintosh" externalFileSize="369384" originalCompressionType="lossless" quality="50" href="Pic/left.png" bitmapDataHRef="M 11 1397134329.dat" frameRight="19600" frameBottom="13600"/>
+          <DOMBitmapItem name="Pic/logo 透.png" itemID="53474f45-00000634" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫 有落花/LIBRARY/logo 透.png" sourceLastImported="1397182050" sourcePlatform="macintosh" externalFileSize="96419" originalCompressionType="lossless" quality="50" href="Pic/logo 透.png" bitmapDataHRef="M 24 1397182079.dat" frameRight="8400" frameBottom="5980"/>
+          <DOMBitmapItem name="Pic/right.png" itemID="53465a7c-00000286" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫/LIBRARY/right.png" sourceLastImported="1397119453" sourcePlatform="macintosh" externalFileSize="246856" originalCompressionType="lossless" quality="50" href="Pic/right.png" bitmapDataHRef="M 9 1397119529.dat" frameRight="8760" frameBottom="12420"/>
+          <DOMSoundItem name="Sound/water_wind.mp3" itemID="53495d7a-0000058a" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫 Enter/LIBRARY/water_wind.mp3" sourceLastImported="1397316676" sourcePlatform="macintosh" externalFileSize="493634" href="Sound/water_wind.mp3" soundDataHRef="M 33 1397316890.dat" format="44kHz 16bit Mono" sampleCount="1358208" exportFormat="1" exportBits="7" dataLength="492774" exportNative="true" cachedSampleCount="169776"/>
+          <DOMSoundItem name="Sound/water.mp3" itemID="53495d7a-0000058b" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫 Enter/LIBRARY/water.mp3" sourceLastImported="1397316728" sourcePlatform="macintosh" externalFileSize="484857" href="Sound/water.mp3" soundDataHRef="M 34 1397316890.dat" format="44kHz 16bit Mono" sampleCount="1334016" exportFormat="1" exportBits="7" dataLength="483997" exportNative="true" cachedSampleCount="166752"/>
+          <DOMSoundItem name="Sound/wind.mp3" itemID="53495d7a-0000058c" sourceExternalFilepath="../../../../../Lily/Class/03 軟應/02 Flash/進站動畫 Enter/LIBRARY/wind.mp3" sourceLastImported="1397316705" sourcePlatform="macintosh" externalFileSize="493634" href="Sound/wind.mp3" soundDataHRef="M 35 1397316890.dat" format="44kHz 16bit Mono" sampleCount="1358208" exportFormat="1" exportBits="7" dataLength="492774" exportNative="true" cachedSampleCount="169776"/>
+     </media>
+     <symbols>
+          <Include href="Button/enter_bn.xml" itemIcon="0" loadImmediate="false" itemID="53492e60-00000339" lastModified="1397306184"/>
+          <Include href="Button/skip.xml" itemIcon="0" loadImmediate="false" itemID="53480328-000005dc" lastModified="1397228630"/>
+          <Include href="falling1.tween/Tween 3.xml" itemIcon="1" loadImmediate="false" itemID="534650ed-0000027a" lastModified="1397117165"/>
+          <Include href="falling1.tween/Tween 4.xml" itemIcon="1" loadImmediate="false" itemID="534650ed-0000027d" lastModified="1397117165"/>
+          <Include href="falling1.tween/Tween 5.xml" itemIcon="1" loadImmediate="false" itemID="534650f1-00000280" lastModified="1397117169"/>
+          <Include href="falling1.tween/Tween 6.xml" itemIcon="1" loadImmediate="false" itemID="534650f3-00000283" lastModified="1397117171"/>
+          <Include href="falling1.tween/Tween 7.xml" itemIcon="1" loadImmediate="false" itemID="534650f6-00000286" lastModified="1397117174"/>
+          <Include href="falling1.tween/Tween 8.xml" itemIcon="1" loadImmediate="false" itemID="534650f8-00000289" lastModified="1397117176"/>
+          <Include href="MovieClip/書法.xml" loadImmediate="false" itemID="5332874c-000001d6" lastModified="1398265971"/>
+          <Include href="MovieClip/詩.xml" loadImmediate="false" itemID="5346a1e1-0000027f" lastModified="1397146730"/>
+          <Include href="MovieClip/boat.xml" loadImmediate="false" itemID="53469746-0000053b" lastModified="1397226482"/>
+          <Include href="MovieClip/circle.xml" loadImmediate="false" itemID="5347f3fb-000000d6" lastModified="1397226891"/>
+          <Include href="MovieClip/Enter.xml" loadImmediate="false" itemID="5347fcbc-000004cc" lastModified="1397226787"/>
+          <Include href="MovieClip/falling1.xml" loadImmediate="false" itemID="53468894-000002cf" lastModified="1397132375"/>
+          <Include href="MovieClip/falling2.xml" loadImmediate="false" itemID="53468ab0-00000394" lastModified="1397132371"/>
+          <Include href="MovieClip/paddle.xml" loadImmediate="false" itemID="534743a3-00000283" lastModified="1397179517"/>
+          <Include href="MovieClip/preLoader.xml" loadImmediate="false" itemID="5347f23c-00000054" lastModified="1397223996"/>
+          <Include href="MovieClip/preLoaderFill.xml" loadImmediate="false" itemID="5347e8e0-00000050" lastModified="1397221600"/>
+          <Include href="MovieClip/rotate1.xml" loadImmediate="false" itemID="53468888-000002cd" lastModified="1397131400"/>
+          <Include href="MovieClip/rotate2.xml" loadImmediate="false" itemID="5346888e-000002ce" lastModified="1397131406"/>
+          <Include href="Tween/Tween 1.xml" itemIcon="1" loadImmediate="false" itemID="5346a6c9-000003ee" lastModified="1397139145"/>
+          <Include href="Tween/Tween 2.xml" itemIcon="1" loadImmediate="false" itemID="5346a6c9-000003f0" lastModified="1397139145"/>
+          <Include href="Tween/Tween 9.xml" itemIcon="1" loadImmediate="false" itemID="5346a721-000003f4" lastModified="1397139233"/>
+          <Include href="Tween/Tween 10.xml" itemIcon="1" loadImmediate="false" itemID="5346a721-000003f6" lastModified="1397139233"/>
+          <Include href="Tween/Tween 11.xml" itemIcon="1" loadImmediate="false" itemID="5346bf1a-0000028a" lastModified="1397145370"/>
+          <Include href="Tween/Tween 12.xml" itemIcon="1" loadImmediate="false" itemID="5346bf1a-0000028c" lastModified="1397145370"/>
+          <Include href="Tween/Tween 13.xml" itemIcon="1" loadImmediate="false" itemID="534743c6-0000028e" lastModified="1397179334"/>
+          <Include href="Tween/Tween 14.xml" itemIcon="1" loadImmediate="false" itemID="534743c6-00000291" lastModified="1397179334"/>
+          <Include href="Tween/Tween 15.xml" itemIcon="1" loadImmediate="false" itemID="534696c8-00000532" lastModified="1397135048"/>
+          <Include href="Tween/Tween 16.xml" itemIcon="1" loadImmediate="false" itemID="534696c8-00000535" lastModified="1397135048"/>
+          <Include href="Tween/Tween 17.xml" itemIcon="1" loadImmediate="false" itemID="534743c8-00000294" lastModified="1397179336"/>
+          <Include href="Tween/Tween 18.xml" itemIcon="1" loadImmediate="false" itemID="5347f5d1-00000127" lastModified="1397224913"/>
+          <Include href="Tween/Tween 19.xml" itemIcon="1" loadImmediate="false" itemID="5347f5d1-0000012a" lastModified="1397224913"/>
+          <Include href="Tween/Tween 20.xml" itemIcon="1" loadImmediate="false" itemID="5347f5d5-0000012d" lastModified="1397224917"/>
+          <Include href="Tween/Tween 21.xml" itemIcon="1" loadImmediate="false" itemID="5347f5d5-00000130" lastModified="1397224917"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="main" currentFrame="528">
+               <layers>
+                    <DOMLayer name="stage" color="#9933CC" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="529" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge strokeStyle="1" edges="!-81 13523|-81 -240!-81 -240|19604 -240!19604 -240|19604 13523!19604 13683|-81 13683"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="sound_wind" color="#9933CC" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="529" keyMode="9728" soundName="Sound/wind.mp3">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint level0="32768" level1="32768"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="sound_water" color="#4FFF4F" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="206" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="206" duration="145" keyMode="9728" soundName="Sound/water.mp3">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint level0="32768" level1="32768"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="351" duration="177" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="ac" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+
+addEventListener(Event.ENTER_FRAME, preLoad)
+
+function preLoad(e:Event):void{
+	var bytestoLoad:Number = loaderInfo.bytesTotal;
+	var numberLoaded:Number = loaderInfo.bytesLoaded;
+	if (bytestoLoad == numberLoaded){
+		removeEventListener(Event.ENTER_FRAME, preLoad)
+		gotoAndPlay(2);
+	}else {
+		preLoader.preLoaderFill.scaleY = numberLoaded/bytestoLoad;
+		preLoader.bytesPercent.text = Math.floor (numberLoaded/bytestoLoad*100) + "%";
+	}
+}]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="527" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[skip.addEventListener(MouseEvent.CLICK, goToEnd);
+function goToEnd(event:MouseEvent):void{
+	gotoAndPlay(508);
+}]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="528" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+var link:URLRequest = new URLRequest("Files/Home.html");
+enter_bn.addEventListener(MouseEvent.CLICK,onClick);
+function onClick (event:MouseEvent):void{
+	navigateToURL(link,"_self");
+}]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="skip" color="#4FFFFF" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="507" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Button/skip" name="skip" symbolType="button">
+                                             <matrix>
+                                                  <Matrix a="0.408737182617188" d="0.408737182617188" tx="-109.85" ty="547.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="398.55" y="198.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="508" duration="21" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="circle" color="#FF800A" outline="true" useOutlineView="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="508" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="508" duration="20" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="MovieClip/circle" centerPoint3DX="808.45" centerPoint3DY="568">
+                                             <matrix>
+                                                  <Matrix a="0.0623626708984375" d="0.0755767822265625" tx="808.55" ty="565.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-1.6" y="35.05"/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.69921875"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="528" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Button/enter_bn" name="enter_bn" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="722.1" ty="479.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="68" y="60.55"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Enter" color="#4FFF4F" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="493" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="493" duration="15" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="MovieClip/Enter" centerPoint3DX="790.1" centerPoint3DY="540.05">
+                                             <matrix>
+                                                  <Matrix tx="722.1" ty="479.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="68" y="60.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="508" duration="20" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="Pic/Enter.png">
+                                             <matrix>
+                                                  <Matrix tx="722.1" ty="479.55"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="528" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="preloader" color="#FF800A" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="MovieClip/preLoader" name="preLoader" centerPoint3DX="490" centerPoint3DY="340">
+                                             <matrix>
+                                                  <Matrix tx="280" ty="190.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="210" y="149.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="527" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="528" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="word" color="#4FFFFF" locked="true" outline="true" useOutlineView="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="196" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="197" duration="154" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="351" duration="135" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="MovieClip/書法" centerPoint3DX="683.2" centerPoint3DY="332.4">
+                                             <matrix>
+                                                  <Matrix a="1.35003662109375" d="1.35028076171875" tx="690" ty="350"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-5.05" y="-13.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="486" duration="42" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance locked="true" libraryItemName="Pic/桃花緣計-01.png copy">
+                                             <matrix>
+                                                  <Matrix a="0.324996948242188" d="0.324996948242188" tx="618.2" ty="112.4"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="528" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance locked="true" libraryItemName="Pic/桃花緣計-01.png copy">
+                                             <matrix>
+                                                  <Matrix a="0.324996948242188" d="0.324996948242188" tx="618.2" ty="112.4"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="poem" color="#4FFF4F" locked="true" outline="true" useOutlineView="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="196" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="MovieClip/詩" centerPoint3DX="647.1" centerPoint3DY="387.55">
+                                             <matrix>
+                                                  <Matrix a="0.21240234375" d="0.21240234375" tx="637.9" ty="386.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="43.3" y="5.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="197" duration="154" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="351" duration="177" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="528" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="fall" color="#FF4F4F" locked="true" autoNamed="false" layerType="folder"/>
+                    <DOMLayer name="falling" color="#4FFF4F" parentLayerIndex="10" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="59" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="60" duration="166" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="MovieClip/falling1" centerPoint3DX="127.5" centerPoint3DY="57.5">
+                                             <matrix>
+                                                  <Matrix tx="-210.55" ty="-92.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="338.05" y="150.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="226" duration="125" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="351" duration="130" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="481" duration="47" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="528" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="falling" color="#4FFFFF" parentLayerIndex="10" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="44" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="45" duration="171" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="MovieClip/falling2" centerPoint3DX="221.55" centerPoint3DY="70.6">
+                                             <matrix>
+                                                  <Matrix tx="-48.85" ty="-51.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="270.4" y="122.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="MovieClip/falling2" centerPoint3DX="302.05" centerPoint3DY="152.55">
+                                             <matrix>
+                                                  <Matrix tx="31.65" ty="30.4"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="270.4" y="122.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="MovieClip/falling2" centerPoint3DX="321.9" centerPoint3DY="14.05">
+                                             <matrix>
+                                                  <Matrix tx="51.5" ty="-108.1"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="270.4" y="122.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="MovieClip/falling2" centerPoint3DX="525.4" centerPoint3DY="99.55">
+                                             <matrix>
+                                                  <Matrix tx="255" ty="-22.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="270.4" y="122.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="216" duration="135" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="351" duration="115" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="466" duration="62" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="528" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="falling" color="#FF4FFF" parentLayerIndex="10" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="29" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="30" duration="176" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="MovieClip/falling1" centerPoint3DX="127.5" centerPoint3DY="57.5">
+                                             <matrix>
+                                                  <Matrix tx="-210.55" ty="-92.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="338.05" y="150.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="206" duration="145" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="351" duration="100" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="451" duration="15" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="466" duration="62" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="528" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="falling" color="#4F80FF" parentLayerIndex="10" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="15" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="16" duration="184" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="MovieClip/falling2" centerPoint3DX="127.55" centerPoint3DY="59">
+                                             <matrix>
+                                                  <Matrix tx="-142.85" ty="-63.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="270.4" y="122.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="MovieClip/falling2" centerPoint3DX="353.05" centerPoint3DY="105.55">
+                                             <matrix>
+                                                  <Matrix tx="82.65" ty="-16.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="270.4" y="122.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="MovieClip/falling2" centerPoint3DX="103" centerPoint3DY="138.05">
+                                             <matrix>
+                                                  <Matrix tx="-167.4" ty="15.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="270.4" y="122.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="MovieClip/falling2" centerPoint3DX="437.35" centerPoint3DY="244.55">
+                                             <matrix>
+                                                  <Matrix tx="166.95" ty="122.4"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="270.4" y="122.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="200" duration="151" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="351" duration="85" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="436" duration="30" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="466" duration="62" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="528" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="falling" color="#9933CC" parentLayerIndex="10" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="191" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="MovieClip/falling1" centerPoint3DX="280.55" centerPoint3DY="149.95">
+                                             <matrix>
+                                                  <Matrix tx="-57.5" ty="-0.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="338.05" y="150.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="MovieClip/falling1" centerPoint3DX="154.55" centerPoint3DY="31.95">
+                                             <matrix>
+                                                  <Matrix tx="-183.5" ty="-118.1"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="338.05" y="150.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="MovieClip/falling1" centerPoint3DX="122.05" centerPoint3DY="205">
+                                             <matrix>
+                                                  <Matrix tx="-216" ty="54.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="338.05" y="150.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="MovieClip/falling1" centerPoint3DX="436" centerPoint3DY="203">
+                                             <matrix>
+                                                  <Matrix tx="97.95" ty="52.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="338.05" y="150.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="MovieClip/falling1" centerPoint3DX="61.4" centerPoint3DY="113">
+                                             <matrix>
+                                                  <Matrix tx="-276.65" ty="-37.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="338.05" y="150.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="192" duration="34" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="226" duration="125" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="351" duration="70" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="421" duration="45" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="466" duration="62" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="528" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="front" color="#9933CC" locked="true" autoNamed="false" visible="false" open="false" layerType="folder"/>
+                    <DOMLayer name="right" color="#9933CC" parentLayerIndex="16" locked="true" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="205" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="Pic/right.png">
+                                             <matrix>
+                                                  <Matrix tx="694.25" ty="209.25"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="206" duration="39" tweenType="shape" keyMode="17922">
+                                   <MorphShape>
+                                        <morphSegments>
+                                             <MorphSegment startPointA="#36.3D, #10.59" startPointB="#44.81, -3.3671875" strokeIndex1="0" strokeIndex2="0" fillIndex1="0" fillIndex2="1">
+                                                  <MorphCurves controlPointA="#47.59, #10.59" anchorPointA="#58.75, #10.59" controlPointB="#6A.96, -3.3671875" anchorPointB="#90.AA, -3.3671875" isLine="true"/>
+                                                  <MorphCurves controlPointA="#58.75, #28.9B" anchorPointA="#58.75, #40.DD" controlPointB="#90.AA, #32.A" anchorPointB="#90.AA, #68.9E" isLine="true"/>
+                                                  <MorphCurves controlPointA="#47.59, #40.DD" anchorPointA="#36.3D, #40.DD" controlPointB="#6A.96, #68.9E" anchorPointB="#44.81, #68.9E" isLine="true"/>
+                                                  <MorphCurves controlPointA="#36.3D, #28.9B" anchorPointA="#36.3D, #10.59" controlPointB="#44.81, #32.A" anchorPointB="#44.81, -3.3671875" isLine="true"/>
+                                             </MorphSegment>
+                                        </morphSegments>
+                                        <morphHintsList/>
+                                   </MorphShape>
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <BitmapFill bitmapPath="Pic/right.png" bitmapIsClipped="false">
+                                                            <matrix>
+                                                                 <Matrix a="20" d="20" tx="694.25" ty="209.25"/>
+                                                            </matrix>
+                                                       </BitmapFill>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle1="1" edges="!22645 4185|22645 16605!22645 16605|13885 16605!13885 16605|13885 4185!13885 4185|22645 4185"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="245" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <BitmapFill bitmapPath="Pic/right.png" bitmapIsClipped="false">
+                                                            <matrix>
+                                                                 <Matrix a="44.5150756835938" d="44.5150756835938" tx="876.85" ty="-43.1"/>
+                                                            </matrix>
+                                                       </BitmapFill>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle1="1" edges="!37034 -862|37034 26782!37034 26782|17537 26782!17537 26782|17537 -862!17537 -862|37034 -862"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="246" duration="282" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="528" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="left" color="#FF800A" parentLayerIndex="16" locked="true" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="205" keyMode="9728">
+                                   <elements>
+                                        <DOMGroup>
+                                             <members/>
+                                        </DOMGroup>
+                                        <DOMBitmapInstance libraryItemName="Pic/left.png">
+                                             <matrix>
+                                                  <Matrix tx="-41.65" ty="20.9"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="206" duration="39" tweenType="shape" keyMode="17922">
+                                   <MorphShape>
+                                        <morphSegments>
+                                             <MorphSegment startPointA="#FFFFFC.BF, #1.A2" startPointB="#FFFFA3.39, -68" strokeIndex1="0" strokeIndex2="0" fillIndex1="0" fillIndex2="1">
+                                                  <MorphCurves controlPointA="#23.07, #1.A2" anchorPointA="#49.4F, #1.A2" controlPointB="#19.BE, -68" anchorPointB="#90.43, -68" isLine="true"/>
+                                                  <MorphCurves controlPointA="#49.4F, #1C.32" anchorPointA="#49.4F, #36.C2" controlPointB="#90.43, #12.4F" anchorPointB="#90.43, #68.9E" isLine="true"/>
+                                                  <MorphCurves controlPointA="#23.07, #36.C2" anchorPointA="#FFFFFC.BF, #36.C2" controlPointB="#19.BE, #68.9E" anchorPointB="#FFFFA3.39, #68.9E" isLine="true"/>
+                                                  <MorphCurves controlPointA="#FFFFFC.BF, #1C.32" anchorPointA="#FFFFFC.BF, #1.A2" controlPointB="#FFFFA3.39, #12.4F" anchorPointB="#FFFFA3.39, -68" isLine="true"/>
+                                             </MorphSegment>
+                                        </morphSegments>
+                                        <morphHintsList/>
+                                   </MorphShape>
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <BitmapFill bitmapPath="Pic/left.png" bitmapIsClipped="false">
+                                                            <matrix>
+                                                                 <Matrix a="20" d="20" tx="-41.65" ty="20.9"/>
+                                                            </matrix>
+                                                       </BitmapFill>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle1="1" edges="!18767 14018|-833 14018!-833 14018|-833 418!-833 418|18767 418!18767 418|18767 14018"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="245" duration="14" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <BitmapFill bitmapPath="Pic/left.png" bitmapIsClipped="false">
+                                                            <matrix>
+                                                                 <Matrix a="61.9200592041016" d="64.9832000732422" tx="-1187.55" ty="-870.4"/>
+                                                            </matrix>
+                                                       </BitmapFill>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle1="1" edges="!36931 -17408|36931 26782!36931 26782|-23751 26782!-23751 26782|-23751 -17408!-23751 -17408|36931 -17408"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="259" duration="269" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="528" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="fog" color="#FF4FFF" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="527" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="Pic/fog.png">
+                                             <matrix>
+                                                  <Matrix tx="-212.9" ty="-23.3"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Pic/fog.png">
+                                             <matrix>
+                                                  <Matrix a="0.16412353515625" d="0.3369140625" tx="477.2" ty="172.7"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="490.2" y="340"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Pic/fog.png">
+                                             <matrix>
+                                                  <Matrix a="0.2794189453125" d="0.573593139648438" tx="433.6" ty="169.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="489.95" y="339.95"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="528" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="Pic/fog.png">
+                                             <matrix>
+                                                  <Matrix tx="-212.9" ty="-23.3"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Pic/fog.png">
+                                             <matrix>
+                                                  <Matrix a="0.16412353515625" d="0.3369140625" tx="477.2" ty="172.7"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="490.2" y="340"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Pic/fog.png">
+                                             <matrix>
+                                                  <Matrix a="0.2794189453125" d="0.573593139648438" tx="433.6" ty="169.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="489.95" y="339.95"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Guide: boat" color="#FF4FFF" locked="true" autoNamed="false" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="195" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="196" duration="159" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge strokeStyle="1" edges="!5859 14371[6943 14072 8036 13679!8036 13679[10224 12894 10278 12427!10278 12427[10306 12178 10083 11932!10083 11932[9961 11800 9578 11511!9578 11511[9214 11237 9064 11056!9064 11056[8833 10777 8848 10472!8848 10472[8876 9828 8879 9798
+!8879 9798[8912 9425 9011 9170!9011 9170[9266 8512 10151 8182!10151 8182[10321 8119 11098 7867!11098 7867[11616 7698 11883 7558!11883 7558[12250 7366 12453 7095!12453 7095[12686 6786 12761 6311!12761 6311[12919 5300 13329 4434!13329 4434
+[13523 4021 13732 3754!13732 3754[13950 3474 14149 3398"/>
+                                                  <Edge cubics="!5859 14371(5859,14371;5859,14371 10193,13175 10278,12427q5859 14371Q6943 14072q8036 13679Q10224 12894q10278 12427);"/>
+                                                  <Edge cubics="!10278 12427(;10362,11677 8804,11387 8848,10472q10278 12427Q10306 12178q10083 11932Q9961 11800q9578 11511Q9214 11237q9064 11056Q8833 10777q8848 10472);"/>
+                                                  <Edge cubics="!8848 10472(;8888,9555 8804,8682 10151,8182q8848 10472Q8876 9828q8879 9798Q8912 9425q9011 9170Q9266 8512q10151 8182);"/>
+                                                  <Edge cubics="!10151 8182(;11498,7684 12552,7643 12761,6311q10151 8182Q10321 8119q11098 7867Q11616 7698q11883 7558Q12250 7366q12453 7095Q12686 6786q12761 6311);"/>
+                                                  <Edge cubics="!12761 6311(;12970,4978 13603,3607 14149,3398q12761 6311Q12919 5300q13329 4434Q13523 4021q13732 3754Q13950 3474q14149 3398)14697,3189;"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="355" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge strokeStyle="1" edges="
+!5859 14371[6943 14072 8036 13679!8036 13679[10224 12894 10278 12427!10278 12427[10306 12178 10083 11932!10083 11932[9961 11800 9578 11511!9578 11511[9214 11237 9064 11056!9064 11056[8833 10777 8848 10472!8848 10472[8876 9828 8879 9798
+!8879 9798[8912 9425 9011 9170!9011 9170[9266 8512 10151 8182!10151 8182[10321 8119 11098 7867!11098 7867[11616 7698 11883 7558!11883 7558[12250 7366 12453 7095!12453 7095[12686 6786 12761 6311!12761 6311[12919 5300 13329 4434!13329 4434
+[13523 4021 13732 3754!13732 3754[13950 3474 14149 3398"/>
+                                                  <Edge cubics="!5859 14371(5859,14371;5859,14371 10193,13175 10278,12427q5859 14371Q6943 14072q8036 13679Q10224 12894q10278 12427);"/>
+                                                  <Edge cubics="!10278 12427(;10362,11677 8804,11387 8848,10472q10278 12427Q10306 12178q10083 11932Q9961 11800q9578 11511Q9214 11237q9064 11056Q8833 10777q8848 10472);"/>
+                                                  <Edge cubics="!8848 10472(;8888,9555 8804,8682 10151,8182q8848 10472Q8876 9828q8879 9798Q8912 9425q9011 9170Q9266 8512q10151 8182);"/>
+                                                  <Edge cubics="!10151 8182(;11498,7684 12552,7643 12761,6311q10151 8182Q10321 8119q11098 7867Q11616 7698q11883 7558Q12250 7366q12453 7095Q12686 6786q12761 6311);"/>
+                                                  <Edge cubics="!12761 6311(;12970,4978 13603,3607 14149,3398q12761 6311Q12919 5300q13329 4434Q13523 4021q13732 3754Q13950 3474q14149 3398)14697,3189;"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="356" duration="172" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="528" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="boat" color="#FF800A" parentLayerIndex="20" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="195" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="196" duration="159" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="MovieClip/boat" centerPoint3DX="292.95" centerPoint3DY="718.55">
+                                             <matrix>
+                                                  <Matrix a="0.141098022460938" d="0.141098022460938" tx="292.25" ty="715.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="4.95" y="24.1"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="355" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="MovieClip/boat" centerPoint3DX="707.45" centerPoint3DY="169.9">
+                                             <matrix>
+                                                  <Matrix a="0.141098022460938" d="0.141098022460938" tx="706.75" ty="166.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="4.95" y="24.1"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="356" duration="172" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="528" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="bg" color="#4FFF4F" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="205" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="Pic/back.jpg">
+                                             <matrix>
+                                                  <Matrix a="1.032958984375" d="1.03558349609375" tx="-4.05" ty="-12"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="490" y="340"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="206" duration="39" tweenType="shape" keyMode="17922">
+                                   <MorphShape>
+                                        <morphSegments>
+                                             <MorphSegment startPointA="#FFFFFF.AF, -0.9375" startPointB="#FFFFCD.E3, #FFFFD8.43" strokeIndex1="0" strokeIndex2="0" fillIndex1="0" fillIndex2="1">
+                                                  <MorphCurves controlPointA="#26.99, -0.9375" anchorPointA="#4D.82, -0.9375" controlPointB="#23.17, #FFFFD8.43" anchorPointB="#78.4B, #FFFFD8.43" isLine="true"/>
+                                                  <MorphCurves controlPointA="#4D.82, #1A.19" anchorPointA="#4D.82, #35.22" controlPointB="#78.4B, #13.63" anchorPointB="#78.4B, #4E.82" isLine="true"/>
+                                                  <MorphCurves controlPointA="#26.99, #35.22" anchorPointA="#FFFFFF.AF, #35.22" controlPointB="#23.17, #4E.82" anchorPointB="#FFFFCD.E3, #4E.82" isLine="true"/>
+                                                  <MorphCurves controlPointA="#FFFFFF.AF, #1A.19" anchorPointA="#FFFFFF.AF, -0.9375" controlPointB="#FFFFCD.E3, #13.63" anchorPointB="#FFFFCD.E3, #FFFFD8.43" isLine="true"/>
+                                             </MorphSegment>
+                                        </morphSegments>
+                                        <morphHintsList/>
+                                   </MorphShape>
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <BitmapFill bitmapPath="Pic/back.jpg" bitmapIsClipped="false">
+                                                            <matrix>
+                                                                 <Matrix a="20.32958984375" d="20.3558349609375" tx="-4.05" ty="-12"/>
+                                                            </matrix>
+                                                       </BitmapFill>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle1="1" edges="
+!19842 -240|19842 13602!19842 13602|-81 13602!-81 13602|-81 -240!-81 -240|19842 -240"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="245" duration="283" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <BitmapFill bitmapPath="Pic/back.jpg" bitmapIsClipped="false">
+                                                            <matrix>
+                                                                 <Matrix a="44.5150756835938" d="44.5150756835938" tx="-641.45" ty="-508.65"/>
+                                                            </matrix>
+                                                       </BitmapFill>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle1="1" edges="
+!30795 -10173S2|30795 20098!30795 20098|-12829 20098!-12829 20098|-12829 -10173!-12829 -10173|30795 -10173"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="528" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <BitmapFill bitmapPath="Pic/back.jpg" bitmapIsClipped="false">
+                                                            <matrix>
+                                                                 <Matrix a="44.5150756835938" d="44.5150756835938" tx="-641.45" ty="-508.65"/>
+                                                            </matrix>
+                                                       </BitmapFill>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle1="1" edges="
+!30795 20098|-12829 20098!-12829 20098|-12829 -10173!-12829 -10173|30795 -10173!30795 -10173|30795 20098"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <persistentData>
+          <PD n="TestMovieChecked" v="FlashPro"/>
+     </persistentData>
+     <PrinterSettings platform="macintosh"/>
+     <publishHistory>
+          <PublishItem publishSize="3161978" publishTime="1398238596"/>
+          <PublishItem publishSize="3160208" publishTime="1398168038"/>
+          <PublishItem publishSize="3160208" publishTime="1398168027"/>
+          <PublishItem publishSize="3161661" publishTime="1397752399"/>
+          <PublishItem publishSize="3161679" publishTime="1397752218"/>
+          <PublishItem publishSize="3163264" publishTime="1397317446"/>
+          <PublishItem publishSize="3163411" publishTime="1397317404"/>
+          <PublishItem publishSize="3163264" publishTime="1397317266"/>
+          <PublishItem publishSize="3173652" publishTime="1397317167"/>
+          <PublishItem publishSize="3173657" publishTime="1397317086"/>
+          <PublishItem publishSize="3173652" publishTime="1397317036"/>
+          <PublishItem publishSize="2205022" publishTime="1397308511"/>
+          <PublishItem publishSize="2205017" publishTime="1397308400"/>
+          <PublishItem publishSize="2205015" publishTime="1397307995"/>
+          <PublishItem publishSize="2203471" publishTime="1397307966"/>
+          <PublishItem publishSize="2203470" publishTime="1397307949"/>
+          <PublishItem publishSize="2203472" publishTime="1397307198"/>
+          <PublishItem publishSize="2203471" publishTime="1397306867"/>
+          <PublishItem publishSize="2204867" publishTime="1397306194"/>
+          <PublishItem publishSize="2204852" publishTime="1397306090"/>
+     </publishHistory>
+</DOMDocument>

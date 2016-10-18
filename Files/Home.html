@@ -1,0 +1,221 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>桃花緣計</title>
+    
+    <style>
+	#container {
+position: relative;
+margin: 0 auto;
+width: 1024px;
+text-align: left;
+}
+		body{
+			
+			background-image:url(圖檔/版面.jpg);
+			background-attachment:fixed;
+			background-repeat:no-repeat;
+			background-position: center top;
+			font-family: Microsoft Sans Serif, Cambria, DFHsiu Std W3, Microsoft JhengHei, DFKai-SB ;
+			 
+		}
+		#down{
+	position: absolute;
+	z-index: 20;
+	width: 547px;
+	height: 234px;
+	left: 0px;
+	top: 502px;
+		}
+		#div_iF{
+			
+			position: absolute;
+			z-index: 10;
+			top: 175px;
+			left: 383px;
+			height: 383px;
+			width: 642px;
+		}
+		#div_homebn{
+	position: absolute;
+	z-index: 9;
+	top: 192px;
+	left: 8px;
+	height: 404px;
+	width: 383px;
+		}
+		#bt1{
+	position: absolute;
+	z-index: 15;
+	top: 86px;
+	left: 434px;
+	height: 80px;
+	width: 210 px;
+		}
+        #bt2 {
+	position: absolute;
+	z-index: 15;
+	top: 8px;
+	left: 514px;
+	height: 80px;
+	width: 210 px;
+		}
+		#bt3 {
+	position: absolute;
+	z-index: 15;
+	top: 89px;
+	left: 600px;
+	height: 80px;
+	width: 210 px;
+		}
+		#bt4 {
+	position: absolute;
+	z-index: 15;
+	top: 6px;
+	left: 700px;
+	height: 80px;
+	width: 210 px;
+		}
+		#bt5 {
+	position: absolute;
+	z-index: 15;
+	top: 91px;
+	left: 776px;
+	height: 80px;
+	width: 210 px;
+		}
+		#mail {
+	position: absolute;
+	z-index: 15;
+	top: 544px;
+	left: 746px;
+	height: 132px;
+	width: 124px;
+		}
+		#display1{
+	
+	position: absolute;
+	top: 308px;
+	left: 113px;
+	z-index: 100;
+	border-radius: 5px;
+	color: white;
+	text-align: center;
+	width: 75px;
+	height: 22px;
+		}
+		#display2{
+	position: absolute;
+	top: 605px;
+	left: 820px;
+	z-index: 100;
+	border-radius: 5px;
+	color: black;
+	text-align: center;
+	width: 99px;
+	height: 30px;
+		}
+
+    </style>
+    
+    <script type="text/javascript">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+	function ShowMessage1(obj) {
+       var display1 = document.getElementById('display1');
+       display1.innerHTML = obj.getAttribute('message');
+    }
+
+    function ClearMessage1() {
+       var display1 = document.getElementById('display1');
+       display1.innerHTML = '';
+    }
+	function ShowMessage2(obj) {
+       var display2 = document.getElementById('display2');
+       display2.innerHTML = obj.getAttribute('message');
+    }
+
+    function ClearMessage2() {
+       var display2 = document.getElementById('display2');
+       display2.innerHTML = '';
+    }
+    </script>
+</head>
+    
+    <body onload="MM_preloadImages('按鈕/凡桃俗李_o.png','按鈕/HOME_bn_o.png')" ;>
+    <div id="container">
+
+    		<div id="display1"></div>
+            <div id="display2"></div>
+            <div id="bt1">
+                <a href="WindWater.html" target="Content" onmouseover="MM_swapImage('bt1p','','按鈕/凡桃俗李_o.png',1)" onmouseout="MM_swapImgRestore()">
+                <img src="按鈕/凡桃俗李.png" name="bt1p" width="210" height="80" id="bt1p" title="進入凡桃俗禮" /></a>
+            </div>
+            
+            <div id="bt2">
+                <a href="MoonOld.html" target="Content" onmouseover="MM_swapImage('bt2p','','按鈕/投桃報李_o.png',1)" onmouseout="MM_swapImgRestore()">
+                <img src="按鈕/投桃報李.png" alt="投桃報李" name="bt2p" width="210" height="80" title="進入投桃報李" id="bt2p"/>
+                </a>
+            </div>
+           <div id="bt3">
+                <a href="Western.html" target="Content" onmouseover="MM_swapImage('bt3p','','按鈕/世外桃緣_o.png',1)" onmouseout="MM_swapImgRestore()">
+                            <img src="按鈕/世外桃緣.png" alt="世外桃緣" name="bt3p" width="210" height="80" title="進入世外桃緣"id="bt3p"/>
+                </a>
+    </div>
+            <div id="bt4">
+                <a href="Foretunetelling.html" target="Content" onmouseover="MM_swapImage('bt4p','','按鈕/鬼畫桃符_o.png',1)" onmouseout="MM_swapImgRestore()">
+                            <img src="按鈕/鬼畫桃符.png" alt="鬼畫桃符" name="bt4p" width="210" title="進入鬼話桃符" height="80" id="bt4p"/>
+                </a>
+            </div>
+            <div id="bt5">
+                <a href="worker.html" target="Content" onmouseover="MM_swapImage('bt5p','','按鈕/桃太郎_o.png',1)" onmouseout="MM_swapImgRestore()">
+                            <img src="按鈕/桃太郎.png" alt="桃太郎" name="bt5p" width="210" title="進入桃太郎" height="80" id="bt5p"/>
+                </a>
+            </div>
+            <div id="down">
+            	<img src="圖檔/右梅.png" height="225"/>
+            </div>
+            <div id="div_homebn" onMouseOver="ShowMessage1(this)" onMouseOut="ClearMessage1()" message="回到首頁">
+            	<a href="Home.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home1','','按鈕/HOME_bn_o.png',1)">
+                <img src="按鈕/HOME_bn.png" alt="回到首頁" width="360" height="392" id="home1" /></a></div>
+        
+    <div id="mail" onMouseOver="ShowMessage2(this)" onMouseOut="ClearMessage2()" message="聯絡我們">
+              <a href="mailto:abc@nccu.edu.tw" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('bt6p','','按鈕/飛鴿傳書_o.png',1)">
+                            <img src="按鈕/飛鴿傳書.png" alt="聯絡我們" name="bt6p" width="120" height="122" " id="mailbn"/>
+              </a>
+            </div>    
+            <div id="div_iF" >
+              <iframe
+                    scrolling="Yes"
+                    name="Content" 
+                    id="Content" 
+                    width="625 px"
+                    height="450px" 
+                    src="ChangePic.html" 
+                    frameborder="yes"
+                > 您的瀏覽器不支援內置框架或目前的設定為不顯示內置框架。</iframe>
+            </div>	
+</div>
+    
+</body>
+</html>

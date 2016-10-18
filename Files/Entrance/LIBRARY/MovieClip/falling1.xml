@@ -1,0 +1,108 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MovieClip/falling1" itemID="53468894-000002cf" lastModified="1397132375" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="falling1" currentFrame="99">
+      <layers>
+        <DOMLayer name="Guide: fall copy" color="#4FFFFF" outline="true" useOutlineView="true" autoNamed="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="99" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#F1F1F1"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!6761 3001|6809 3229!6809 3229[6849 3509 6811 3771!6811 3771[6691 4611 5841 4961!5841 4961[5367 5156 5079 5388!5079 5388[#12EA.EE #15C9.11 4732.5 5762!4732.5 5762[#120E.36 #173A.CC 4416 6327!4416 6327[#1071.CA #1A33.33 4042.5 6963.5!4042.5
+ 6963.5[3876 7219 3456 7599!3456 7599[3201 7830 2953 7993!2953 7993[2703 8159 2480 8242!2480 8242[2123 8367 1914 8440!1914 8440[1526 8576 1280 8687!1280 8687[542 9020 440 9402!440 9402[387 9600 456 10002!456 10002[492 10210 630 10778
+!630 10778[755 11291 789 11546!789 11546[841 11935 760 12123!760 12123[610 12473 -510 13433!-510 13433[-1071 13913 -1601 14323"/>
+                    <Edge cubics="!6761 3001(6761,3001;6761,3001 7201,4401 5841,4961q6761 3001Q6761 3001q6809 3229Q6849 3509q6811 3771Q6691 4611q5841 4961);"/>
+                    <Edge cubics="!2480 8242(;1840,8482 600,8802 440,9402q2480 8242Q2123 8367q1914 8440Q1526 8576q1280 8687Q542 9020q440 9402);"/>
+                    <Edge cubics="!440 9402(;280,10002 1000,11563 760,12123q440 9402Q387 9600q456 10002Q492 10210q630 10778Q755 11291q789 11546Q841 11935q760 12123);"/>
+                    <Edge cubics="!760 12123(;520,12683 -1601,14323 -1601,14323q760 12123Q610 12473q-510 13433Q-1071 13913q-1601 14323)-1601,14323;"/>
+                    <Edge cubics="!5841 4961(;5525,5091 5271,5233 5079,5388q5841 4961Q5367 5156q5079 5388);"/>
+                    <Edge cubics="!4043 6964(;3931,7135 3749,7334 3456,7599q4043 6964Q3876 7219q3456 7599);"/>
+                    <Edge cubics="!4416 6327(;4279,6580 4154,6793 4043,6964q4416 6327Q4210 6707q4043 6964);"/>
+                    <Edge cubics="!4733 5762(;4659,5885 4553,6074 4416,6327q4733 5762Q4622 5947q4416 6327);"/>
+                    <Edge cubics="!5079 5388(;4922,5514 4806,5639 4733,5762q5079 5388Q4843 5577q4733 5762);"/>
+                    <Edge cubics="!3456 7599(;3118,7904 2779,8130 2480,8242q3456 7599Q3201 7830q2953 7993Q2703 8159q2480 8242);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="99" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#F1F1F1"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="
+!6761 3001S4|6809 3229!6809 3229[6849 3509 6811 3771!6811 3771[6691 4611 5841 4961!5841 4961[5367 5156 5079 5388!5079 5388[#12EA.EE #15C9.11 4732.5 5762!4732.5 5762[#120E.36 #173A.CC 4416 6327!4416 6327[#1071.CA #1A33.33 4042.5 6963.5
+!4042.5 6963.5[3876 7219 3456 7599!3456 7599[3201 7830 2953 7993!2953 7993[2703 8159 2480 8242!2480 8242[2123 8367 1914 8440!1914 8440[1526 8576 1280 8687!1280 8687[542 9020 440 9402!440 9402[387 9600 456 10002!456 10002[492 10210 630
+ 10778!630 10778[755 11291 789 11546!789 11546[841 11935 760 12123!760 12123[610 12473 -510 13433!-510 13433[-1071 13913 -1601 14323"/>
+                    <Edge cubics="!6761 3001(6761,3001;6761,3001 7201,4401 5841,4961q6761 3001Q6761 3001q6809 3229Q6849 3509q6811 3771Q6691 4611q5841 4961);"/>
+                    <Edge cubics="!2480 8242(;1840,8482 600,8802 440,9402q2480 8242Q2123 8367q1914 8440Q1526 8576q1280 8687Q542 9020q440 9402);"/>
+                    <Edge cubics="!440 9402(;280,10002 1000,11563 760,12123q440 9402Q387 9600q456 10002Q492 10210q630 10778Q755 11291q789 11546Q841 11935q760 12123);"/>
+                    <Edge cubics="!760 12123(;520,12683 -1601,14323 -1601,14323q760 12123Q610 12473q-510 13433Q-1071 13913q-1601 14323)-1601,14323;"/>
+                    <Edge cubics="!5841 4961(;5525,5091 5271,5233 5079,5388q5841 4961Q5367 5156q5079 5388);"/>
+                    <Edge cubics="!4043 6964(;3931,7135 3749,7334 3456,7599q4043 6964Q3876 7219q3456 7599);"/>
+                    <Edge cubics="!4416 6327(;4279,6580 4154,6793 4043,6964q4416 6327Q4210 6707q4043 6964);"/>
+                    <Edge cubics="!4733 5762(;4659,5885 4553,6074 4416,6327q4733 5762Q4622 5947q4416 6327);"/>
+                    <Edge cubics="!5079 5388(;4922,5514 4806,5639 4733,5762q5079 5388Q4843 5577q4733 5762);"/>
+                    <Edge cubics="!3456 7599(;3118,7904 2779,8130 2480,8242q3456 7599Q3201 7830q2953 7993Q2703 8159q2480 8242);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fall copy" color="#FF800A" parentLayerIndex="0" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="99" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/rotate1" centerPoint3DX="338.05" centerPoint3DY="150.05">
+                  <matrix>
+                    <Matrix a="0.126190185546875" d="0.126190185546875" tx="338.05" ty="150.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-5.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="99" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/rotate1" selected="true" centerPoint3DX="-80.05" centerPoint3DY="716.15">
+                  <matrix>
+                    <Matrix a="0.126190185546875" d="0.126190185546875" tx="-80.05" ty="716.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-5.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

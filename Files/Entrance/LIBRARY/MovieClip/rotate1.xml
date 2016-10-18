@@ -1,0 +1,144 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MovieClip/rotate1" itemID="53468888-000002cd" lastModified="1397131400">
+  <timeline>
+    <DOMTimeline name="rotate1" currentFrame="28">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="falling1.tween/Tween 3" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix ty="-5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="falling1.tween/Tween 3" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.78265380859375" b="0.6224365234375" c="-0.6224365234375" d="0.78265380859375" ty="-5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="falling1.tween/Tween 3" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.3665771484375" b="0.93035888671875" c="-0.93035888671875" d="0.3665771484375" ty="-5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="falling1.tween/Tween 3" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.39862060546875" b="0.91705322265625" c="-0.91705322265625" d="-0.39862060546875" ty="-5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="falling1.tween/Tween 3" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.9302978515625" b="0.3665771484375" c="-0.3665771484375" d="-0.9302978515625" ty="-5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="falling1.tween/Tween 3" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.98895263671875" b="-0.147674560546875" c="0.147674560546875" d="-0.98895263671875" ty="-5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="falling1.tween/Tween 3" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.782623291015625" b="-0.622344970703125" c="0.622344970703125" d="-0.782623291015625" ty="-5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="falling1.tween/Tween 3" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.11334228515625" b="-0.993453979492188" c="0.993453979492188" d="-0.11334228515625" ty="-5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="falling1.tween/Tween 3" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.622314453125" b="-0.782623291015625" c="0.782623291015625" d="0.622314453125" ty="-5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="falling1.tween/Tween 3" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.93023681640625" b="-0.36663818359375" c="0.340301513671875" d="0.94061279296875" ty="-5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="falling1.tween/Tween 3" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.93011474609375" b="0.404205322265625" c="-0.4210205078125" d="0.898406982421875" ty="-5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

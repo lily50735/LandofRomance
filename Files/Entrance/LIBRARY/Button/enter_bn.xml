@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Button/enter_bn" itemID="53492e60-00000339" symbolType="button" lastModified="1397306184">
+  <timeline>
+    <DOMTimeline name="enter_bn" currentFrame="1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Pic/Enter.png"/>
+                <DOMBitmapInstance libraryItemName="Pic/圈.png">
+                  <matrix>
+                    <Matrix a="0.0623626708984375" d="0.0757293701171875" tx="55.2" ty="55.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="499.5" y="431.15"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Pic/Enter_mouseover.png"/>
+                <DOMBitmapInstance selected="true" libraryItemName="Pic/圈.png">
+                  <matrix>
+                    <Matrix a="0.0623626708984375" d="0.0757293701171875" tx="55.2" ty="55.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="499.5" y="431.15"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

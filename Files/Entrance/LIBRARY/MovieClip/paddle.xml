@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MovieClip/paddle" itemID="534743a3-00000283" lastModified="1397179517">
+  <timeline>
+    <DOMTimeline name="paddle" currentFrame="21">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tween/Tween 14" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.965927124023438" b="-0.2587890625" c="0.2587890625" d="0.965927124023438" tx="-21.95" ty="4.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tween/Tween 14" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.941192626953125" b="-0.337860107421875" c="0.337860107421875" d="0.941192626953125" tx="-21.95" ty="4.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tween/Tween 14" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9161376953125" b="-0.411972045898438" c="0.4071044921875" d="0.905364990234375" tx="-21.95" ty="4.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tween/Tween 14" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.946762084960938" b="-0.3355712890625" c="0.33160400390625" d="0.935653686523438" tx="-21.95" ty="4.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tween/Tween 14" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.970077514648438" b="-0.2606201171875" c="0.257553100585938" d="0.95867919921875" tx="-21.95" ty="4.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

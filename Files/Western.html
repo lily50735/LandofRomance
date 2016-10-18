@@ -1,0 +1,461 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>Western</title>
+        <style>
+           .Title{
+	font: red;
+	color: #F00;
+	font-size: 22px;
+			}
+		#Title{
+	position: absolute;
+	top: -10px;
+	left: 11px;
+	width: 185px;
+	height: 74px;
+                }
+       	#paragraph{
+	position: absolute;
+	text-align: center;
+	color:gray;
+	top: 485px;
+	left: 8px;
+	width: 590px;
+	height: 480;
+                }
+		#sign{
+	position: absolute;
+	top: 113px;
+	left: 92px;
+	width: 440px;
+	height: 189px;
+	z-index:0;
+        }
+		#bar1{
+	position: absolute;
+	top: 402px;
+	left: 38px;
+	width: 548px;
+	height: 28px;
+        }
+		#bar2{
+	position: absolute;
+	top: 318px;
+	left: 39px;
+	width: 548px;
+	height: 25px;
+        }
+		#bar3{
+	position: absolute;
+	top: 81px;
+	left: 39px;
+	width: 548px;
+	height: 67px;
+	z-index: -10;
+        }
+		#other{
+	position: absolute;
+	top: 300px;
+	left: 204px;
+	width: 217px;
+	height: 98px;
+	z-index: 10;
+	color: #00F;
+			}
+		#display1{
+	position: absolute;
+	top: 108px;
+	left: 104px;
+	z-index: 1;
+	border-radius: 5px;
+	color: blue;
+	text-align: center;
+	width: 69px;
+	height: 35px;
+		}
+		#display2{
+	position: absolute;
+	top: 108px;
+	left: 169px;
+	z-index: 1;
+	border-radius: 5px;
+	color: blue;
+	text-align: center;
+	width: 75px;
+	height: 28px;
+		}
+		#display3{
+	position: absolute;
+	top: 108px;
+	left: 244px;
+	z-index: 1;
+	border-radius: 5px;
+	color: blue;
+	text-align: center;
+	width: 65px;
+	height: 26px;
+		}
+		#display4{
+	position: absolute;
+	top: 107px;
+	left: 319px;
+	z-index: 1;
+	border-radius: 5px;
+	color: blue;
+	text-align: center;
+	width: 63px;
+	height: 25px;
+		}
+		#display5{
+	position: absolute;
+	top: 106px;
+	left: 389px;
+	z-index: 1;
+	border-radius: 5px;
+	color: blue;
+	text-align: center;
+	width: 62px;
+	height: 26px;
+		}
+		#display6{
+	position: absolute;
+	top: 105px;
+	left: 460px;
+	z-index: 1;
+	border-radius: 5px;
+	color: blue;
+	text-align: center;
+	width: 61px;
+	height: 27px;
+		}
+		#display7{
+	position: absolute;
+	top: 291px;
+	left: 103px;
+	z-index: 1;
+	border-radius: 5px;
+	color: blue;
+	text-align: center;
+	width: 64px;
+	height: 24px;
+		}#display8{
+	position: absolute;
+	top: 291px;
+	left: 175px;
+	z-index: 1;
+	border-radius: 5px;
+	color: blue;
+	text-align: center;
+	width: 63px;
+	height: 28px;
+		}#display9{
+	position: absolute;
+	top: 291px;
+	left: 243px;
+	z-index: 1;
+	border-radius: 5px;
+	color: blue;
+	text-align: center;
+	width: 70px;
+	height: 26px;
+		}#display10{
+	position: absolute;
+	top: 291px;
+	left: 320px;
+	z-index: 1;
+	border-radius: 5px;
+	color: blue;
+	text-align: center;
+	width: 63px;
+	height: 28px;
+		}
+		#display11{
+	position: absolute;
+	top: 291px;
+	left: 388px;
+	z-index: 1;
+	border-radius: 5px;
+	color: blue;
+	text-align: center;
+	width: 64px;
+	height: 29px;
+		}
+		#display12{
+	position: absolute;
+	top: 291px;
+	left: 460px;
+	z-index: 1;
+	border-radius: 5px;
+	color: blue;
+	text-align: center;
+	width: 60px;
+	height: 30px;
+		}	
+					#t1{
+	position: absolute;
+	top: 127px;
+	left: 104px;
+	z-index: 100;
+	border-radius: 5px;
+color: blue;	text-align: center;
+	width: 64px;
+	height: 81px;
+		}
+		#t2{
+	position: absolute;
+	top: 128px;
+	left: 170px;
+	z-index: 100;
+	border-radius: 5px;color: blue;text-align: center;
+	width: 75px;
+	height: 81px;
+		}
+		#t3{
+	position: absolute;
+	top: 127px;
+	left: 246px;
+	z-index: 100;
+	border-radius: 5px;color: blue;text-align: center;
+	width: 65px;
+	height: 82px;
+		}
+		#t4{
+	position: absolute;
+	top: 126px;
+	left: 320px;
+	z-index: 100;
+	border-radius: 5px;color: blue;text-align: center;
+	width: 63px;
+	height: 83px;
+		}
+		#t5{
+	position: absolute;
+	top: 127px;
+	left: 389px;
+	z-index: 100;
+	border-radius: 5px;color: blue;text-align: center;
+	width: 62px;
+	height: 82px;
+		}
+		#t6{
+	position: absolute;
+	top: 125px;
+	left: 461px;
+	z-index: 100;
+	border-radius: 5px;
+color: blue;	text-align: center;
+	width: 61px;
+	height: 83px;
+		}
+		#t7{
+	position: absolute;
+	top: 214px;
+	left: 103px;
+	z-index: 100;
+	border-radius: 5px;color: blue;text-align: center;
+	width: 64px;
+	height: 77px;
+		}#t8{
+	position: absolute;
+	top: 214px;
+	left: 176px;
+	z-index: 100;
+	border-radius: 5px;color: blue;text-align: center;
+	width: 63px;
+	height: 80px;
+		}#t9{
+	position: absolute;
+	top: 215px;
+	left: 243px;
+	z-index: 100;
+	border-radius: 5px;color: blue;text-align: center;
+	width: 70px;
+	height: 79px;
+		}
+		#t10{
+	position: absolute;
+	top: 211px;
+	left: 317px;
+	z-index: 100;
+	border-radius: 5px;color: blue;text-align: center;
+	width: 64px;
+	height: 84px;
+		}
+		#t11{
+	position: absolute;
+	top: 214px;
+	left: 389px;
+	z-index: 100;
+	border-radius: 5px;color: blue;text-align: center;
+	width: 60px;
+	height: 80px;
+		}
+		#t12{
+	position: absolute;
+	top: 214px;
+	left: 458px;
+	z-index: 100;
+	border-radius: 5px;color: blue;text-align: center;
+	width: 69px;
+	height: 80px;
+		}
+
+        </style>
+    <script>                                           
+    	function ShowMessage1(obj) {
+       var display1 = document.getElementById('display1');
+       display1.innerHTML = obj.getAttribute('message');
+    }
+
+    function ClearMessage1() {
+       var display1 = document.getElementById('display1');
+       display1.innerHTML = '';
+    }
+		function ShowMessage2(obj) {
+       var display2 = document.getElementById('display2');
+       display2.innerHTML = obj.getAttribute('message');
+    }
+    function ClearMessage2() {
+       var display2 = document.getElementById('display2');
+       display2.innerHTML = '';
+    }
+	function ShowMessage3(obj) {
+       var display3 = document.getElementById('display3');
+       display3.innerHTML = obj.getAttribute('message');
+    }
+    function ClearMessage3() {
+       var display3 = document.getElementById('display3');
+       display3.innerHTML = '';
+    }
+function ShowMessage4(obj) {
+       var display4 = document.getElementById('display4');
+       display4.innerHTML = obj.getAttribute('message');
+    }
+    function ClearMessage4() {
+       var display4 = document.getElementById('display4');
+       display4.innerHTML = '';
+    }
+function ShowMessage5(obj) {
+       var display5 = document.getElementById('display5');
+       display5.innerHTML = obj.getAttribute('message');
+    }
+    function ClearMessage5() {
+       var display5 = document.getElementById('display5');
+       display5.innerHTML = '';
+    }
+function ShowMessage6(obj) {
+       var display6 = document.getElementById('display6');
+       display6.innerHTML = obj.getAttribute('message');
+    }
+    function ClearMessage6() {
+       var display6 = document.getElementById('display6');
+       display6.innerHTML = '';
+    }
+function ShowMessage7(obj) {
+       var display7 = document.getElementById('display7');
+       display7.innerHTML = obj.getAttribute('message');
+    }
+    function ClearMessage7() {
+       var display7 = document.getElementById('display7');
+       display7.innerHTML = '';
+    }
+function ShowMessage8(obj) {
+       var display8 = document.getElementById('display8');
+       display8.innerHTML = obj.getAttribute('message');
+    }
+    function ClearMessage8() {
+       var display8 = document.getElementById('display8');
+       display8.innerHTML = '';
+    }
+function ShowMessage9(obj) {
+       var display9 = document.getElementById('display9');
+       display9.innerHTML = obj.getAttribute('message');
+    }
+    function ClearMessage9() {
+       var display9 = document.getElementById('display9');
+       display9.innerHTML = '';
+    }
+function ShowMessage10(obj) {
+       var display10 = document.getElementById('display10');
+       display10.innerHTML = obj.getAttribute('message');
+    }
+    function ClearMessage10() {
+       var display10 = document.getElementById('display10');
+       display10.innerHTML = '';
+    }
+function ShowMessage11(obj) {
+       var display11 = document.getElementById('display11');
+       display11.innerHTML = obj.getAttribute('message');
+    }
+    function ClearMessage11() {
+       var display11 = document.getElementById('display11');
+       display11.innerHTML = '';
+    }
+function ShowMessage12(obj) {
+       var display12 = document.getElementById('display12');
+       display12.innerHTML = obj.getAttribute('message');
+    }
+    function ClearMessage12() {
+       var display12 = document.getElementById('display12');
+       display12.innerHTML = '';
+    }
+    </script>
+
+    </head>
+    
+<body>
+
+
+<div id="display1"></div>
+<div id="display2"></div>
+<div id="display3"></div>
+<div id="display4"></div>
+<div id="display5"></div>
+<div id="display6"></div>
+<div id="display7"></div>
+<div id="display8"></div>
+<div id="display9"></div>
+<div id="display10"></div>
+<div id="display11"></div>
+<div id="display12"></div>
+
+<div id="t1" onMouseOver=ShowMessage1(this) onMouseOut=ClearMessage1() message=牡羊座><a href=世外/牡羊.html><img src=圖檔/透-01.png width=64 height=80></a></div>
+<div id="t2" onMouseOver=ShowMessage2(this) onMouseOut=ClearMessage2() message=金牛座><a href=世外/金牛.html><img src=圖檔/透-01.png width=64 height=81></a></div>
+<div id="t3" onMouseOver=ShowMessage3(this) onMouseOut=ClearMessage3() message=雙子座><a href=世外/雙子.html><img src=圖檔/透-01.png width=64 height=82></a></div>
+<div id="t4" onMouseOver=ShowMessage4(this) onMouseOut=ClearMessage4() message=巨蟹座><a href=世外/巨蟹.html><img src=圖檔/透-01.png width=64 height=83></a></div>
+<div id="t5" onMouseOver=ShowMessage5(this) onMouseOut=ClearMessage5() message=獅子座><a href=世外/獅子.html><img src=圖檔/透-01.png width=64 height=84></a></div>
+<div id="t6" onMouseOver=ShowMessage6(this) onMouseOut=ClearMessage6() message=處女座><a href=世外/處女.html><img src=圖檔/透-01.png width=64 height=85></a></div>
+<div id="t7" onMouseOver=ShowMessage7(this) onMouseOut=ClearMessage7() message=天秤座><a href=世外/天秤.html><img src=圖檔/透-01.png width=64 height=86></a></div>
+<div id="t8" onMouseOver=ShowMessage8(this) onMouseOut=ClearMessage8() message=天蠍座><a href=世外/天蠍.html><img src=圖檔/透-01.png width=64 height=87></a></div>
+<div id="t9" onMouseOver=ShowMessage9(this) onMouseOut=ClearMessage9() message=射手座><a href=世外/射手.html><img src=圖檔/透-01.png width=64 height=88></a></div>
+<div id="t10" onMouseOver=ShowMessage10(this) onMouseOut=ClearMessage10() message=摩羯座><a href=世外/摩羯.html><img src=圖檔/透-01.png width=64 height=89></a></div>
+<div id="t11" onMouseOver=ShowMessage11(this) onMouseOut=ClearMessage11() message=水瓶座><a href=世外/水瓶.html><img src=圖檔/透-01.png width=64 height=90></a></div>
+<div id="t12" onMouseOver=ShowMessage12(this) onMouseOut=ClearMessage12() message=雙魚座><a href=世外/雙魚.html><img src=圖檔/透-01.png width=64 height=91></a></div>
+
+<div id="Title">
+    	<img src="圖檔/標/世外桃緣.png" width="180" height="71" />   
+    </div>
+	<div id="other">
+		<a href="世外/其他.html">
+        	<img src="世外/other.png" width="220" height="97"/>
+        </a>
+	</div>
+	<div id="sign">
+    	<img src="世外/sign.png" width="436" height="191" usemap="#Map" border="0" />
+
+</div>
+    <div id="bar1">
+   	  <img src="圖檔/bar.png" width="549" height="24" />   
+    </div>
+    <div id="bar3">
+    	<img src="圖檔/bar.png" width="549" height="24" />   
+    </div>
+    <div id="paragraph">
+   Reference: http://yuan19740401.pixnet.net/blog/post/70219801-12
+	</div>
+
+          
+</body>
+
+</html>
